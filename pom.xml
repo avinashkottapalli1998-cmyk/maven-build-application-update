@@ -97,14 +97,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Release-icicibankk Nexus Repository</name>
-	      <url>http://47.130.155.59:8081/repository/Release-icicibankk/</url>
+	      <name>Release-hdfc Nexus Repository</name>
+	      <url>http://http://13.233.57.232:8081/repository/Release-hdfc/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Snapshot-icicibankk Nexus Repository </name>
-	      <url>http://47.130.155.59:8081/repository/Snapshot-icicibankk/</url>
+	      <name>Snapshot-hdfc Nexus Repository </name>
+	      <url>http://13.233.57.232:8081/repository/Snapshot-hdfc/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
